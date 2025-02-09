@@ -17,8 +17,6 @@
 <br><br>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, Nodejs, Go, Angular**
-
 - 🌱 I am taking GitHub courses**
 
 - ☁️ I am very interested in AWS so I prepare for certifications
@@ -97,7 +95,7 @@
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Angelgabrielruiz&theme=dark&show_icons=true&count_private=true" />
-  <br></br> <h1>ff<h1>
+  <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Angelgabrielruiz&theme=dark&hide_border=false" /> 
 </td>
 
