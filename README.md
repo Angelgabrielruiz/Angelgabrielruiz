@@ -9,45 +9,30 @@
   </ul>
 </div>
 
-<!--- snake -->
-<div align="center">
-  <img align="center" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-</div>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">.</h2></summary>
-  </ul>
-</div>
+<picture> <img align="right" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width = 350px></picture>
+
+<br><br>
 
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, Nodejs, Go, Angular**
 
 - 🌱 I am taking GitHub courses**
 
-- ☁️ I am very interested in AWS so I prepare for certifications**
+- ☁️ I am very interested in AWS so I prepare for certifications
 
 -  📧 You can write to me with confidence at any time **is.angelruiz01@gmail.com**
 <!--Intro end-->
 
-<div id="user-content-toc">
- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <h1>Skills</h1>
 <br>
-</div>
-<!--tech stack icons-->
 
 <div id="user-content-toc">
- <h2>🛠️ Backend</h2>
-<br>
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <h1>Skills</h1>
+  <br>
 </div>
 <!--tech stack icons-->
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,nodejs,py,go,postman&perline=14" />
-  </a>
-</p>
 
 <div id="user-content-toc">
  <h2>🌐 Frontend</h2>
@@ -61,15 +46,39 @@
 </p>
 
 <div id="user-content-toc">
+ <h2>🛠️ Backend</h2>
+<br>
+</div>
+<!--tech stack icons-->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,nodejs,py,go,postman&perline=14" />
+  </a>
+</p>
+
+
+<div id="user-content-toc">
+ <h2>🛠️ Development Environment Tools</h2>
+<br>
+</div>
+<!--tech stack icons-->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,postman,npm&perline=14" />
+  </a>
+</p>
+
+<div id="user-content-toc">
  <h2>🗄️ Databases</h2>
 <br>
 </div>
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,postgres,mysql,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,&perline=14" />
   </a>
 </p>
+
 
 <div id="user-content-toc">
  <h2>☁️ DevOps</h2>
@@ -78,9 +87,10 @@
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,github,nginx&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,nginx&perline=14" />
   </a>
 </p>
+
 
 
 <!--- stats & Trophy (start) -->
