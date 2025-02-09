@@ -45,7 +45,7 @@
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,nodejs,py,go&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,nodejs,py,go,postman&perline=14" />
   </a>
 </p>
 
