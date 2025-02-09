@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Angel</h1></summary>
+           <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Angel+%F0%9F%91%8B;Back-End+developer+🛠️" alt="Headline" />
   </ul>
 </div>
 
