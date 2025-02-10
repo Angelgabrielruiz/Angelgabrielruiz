@@ -35,7 +35,7 @@
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,express,html,js,nextjs,react,tailwind,figma,ts,angular,vite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,express,html,js,nextjs,react,tailwind,figma,ts,angular,vite&perline=14" />
   </a>
 </p>
 
