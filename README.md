@@ -62,6 +62,19 @@
   </a>
 </p>
 
+
+<div id="user-content-toc">
+ <h2>☁️ DevOps</h2>
+<br>
+</div>
+<!--tech stack icons-->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,nginx,docker&perline=14" />
+  </a>
+</p>
+
+
 <div id="user-content-toc">
  <h2>🗄️ Databases</h2>
 <br>
@@ -73,17 +86,6 @@
   </a>
 </p>
 
-
-<div id="user-content-toc">
- <h2>☁️ DevOps</h2>
-<br>
-</div>
-<!--tech stack icons-->
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,nginx&perline=14" />
-  </a>
-</p>
 
 
 
