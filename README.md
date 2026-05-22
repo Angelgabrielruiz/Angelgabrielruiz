@@ -46,7 +46,7 @@
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,nodejs,py,go,fastapi&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,py,go,fastapi,php,rabbitmq,&perline=14" />
   </a>
 </p>
 
